@@ -1,1 +1,2 @@
-import cv2
+hello = 8
+print(hello)
