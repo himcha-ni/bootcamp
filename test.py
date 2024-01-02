@@ -1,2 +1,5 @@
-hello = 8
-print(hello)
+x=3
+y=7
+z = 5
+y+=x
+print(y)
